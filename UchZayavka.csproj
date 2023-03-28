@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39664CA0-C99B-4AB2-8D3A-E3D3D824B6D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UchZayavka</RootNamespace>
+    <AssemblyName>UchZayavka</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDDataSet1.cs">
+      <DependentUpon>BDDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BDDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAuth.Designer.cs">
+      <DependentUpon>FormAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGrZayavka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGrZayavka.Designer.cs">
+      <DependentUpon>FormGrZayavka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewZayavka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewZayavka.Designer.cs">
+      <DependentUpon>FormNewZayavka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrg.Designer.cs">
+      <DependentUpon>FormOrg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReports.Designer.cs">
+      <DependentUpon>FormReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormResult.Designer.cs">
+      <DependentUpon>FormResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelectContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelectContact.Designer.cs">
+      <DependentUpon>FormSelectContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSotr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSotr.Designer.cs">
+      <DependentUpon>FormSotr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStatus.Designer.cs">
+      <DependentUpon>FormStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsers.Designer.cs">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsl.Designer.cs">
+      <DependentUpon>FormUsl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVidOrg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVidOrg.Designer.cs">
+      <DependentUpon>FormVidOrg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAuth.resx">
+      <DependentUpon>FormAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGrZayavka.resx">
+      <DependentUpon>FormGrZayavka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewZayavka.resx">
+      <DependentUpon>FormNewZayavka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrg.resx">
+      <DependentUpon>FormOrg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReports.resx">
+      <DependentUpon>FormReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormResult.resx">
+      <DependentUpon>FormResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelectContact.resx">
+      <DependentUpon>FormSelectContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSotr.resx">
+      <DependentUpon>FormSotr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStatus.resx">
+      <DependentUpon>FormStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsers.resx">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsl.resx">
+      <DependentUpon>FormUsl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVidOrg.resx">
+      <DependentUpon>FormVidOrg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="BDDataSet1.xsc">
+      <DependentUpon>BDDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BDDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>BDDataSet11.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="BDDataSet1.xss">
+      <DependentUpon>BDDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\54308.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indexrr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock_save_9801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w16h161349012427eraser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gerb839x1127-240x322.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\premium-icon-handbook-4152972.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\premium-icon-letterhead-4747937.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\premium-icon-financial-report-3889519.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\premium-icon-financial-report-38895191.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
