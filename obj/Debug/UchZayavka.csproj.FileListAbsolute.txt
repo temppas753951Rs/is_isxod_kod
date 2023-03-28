@@ -1,0 +1,104 @@
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\bin\Debug\UchZayavka.exe.config
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\bin\Debug\UchZayavka.exe
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\bin\Debug\UchZayavka.pdb
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.Form1.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormAuth.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormNewZayavka.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormOrg.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormReports.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormResult.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormSelectContact.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormUsers.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormUsl.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.Properties.Resources.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.csproj.GenerateResource.Cache
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.exe
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.pdb
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.csprojResolveAssemblyReference.cache
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\UchZayavka\obj\Debug\UchZayavka.FormVidOrg.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.csprojResolveAssemblyReference.cache
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.Form1.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormAuth.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormGrZayavka.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormNewZayavka.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormOrg.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormReports.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormResult.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormSelectContact.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormStatus.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormUsers.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormUsl.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.FormVidOrg.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.Properties.Resources.resources
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.csproj.GenerateResource.Cache
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\bin\Debug\UchZayavka.exe.config
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\bin\Debug\UchZayavka.exe
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\bin\Debug\UchZayavka.pdb
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.exe
+D:\ДИПЛОМЫ\Дипл\Заочник\Диплом Учет заявок C#+ACCESS\программа\UchZayavka\для елнкретного проедприятия\UchZayavka\obj\Debug\UchZayavka.pdb
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\bin\Debug\UchZayavka.exe.config
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.exe
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.pdb
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\bin\Debug\UchZayavka.exe
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\bin\Debug\UchZayavka.pdb
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.csprojResolveAssemblyReference.cache
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.Form1.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormAuth.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormGrZayavka.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormNewZayavka.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormOrg.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormReports.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormResult.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormSelectContact.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormStatus.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormUsers.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormUsl.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormVidOrg.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.Properties.Resources.resources
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.csproj.GenerateResource.Cache
+C:\D\ДИПЛОМЫ\Дипл\Заочник\Диплом АВтоматизация учета заявок на горячую линию\программма\UchZayavka\obj\Debug\UchZayavka.FormSotr.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\bin\Debug\UchZayavka.exe.config
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\bin\Debug\UchZayavka.exe
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\bin\Debug\UchZayavka.pdb
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csprojAssemblyReference.cache
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.Form1.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormAuth.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormGrZayavka.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormNewZayavka.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormOrg.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormReports.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormResult.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormSelectContact.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormSotr.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormStatus.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormUsers.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormUsl.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormVidOrg.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.Properties.Resources.resources
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csproj.GenerateResource.cache
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csproj.CoreCompileInputs.cache
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.exe
+C:\D\ДИПЛОМЫ\Дипл2\Иван\Диплом. ВИТТЕ. ВУЗ. Учет работы с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.pdb
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\bin\Debug\UchZayavka.exe.config
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\bin\Debug\UchZayavka.exe
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\bin\Debug\UchZayavka.pdb
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csproj.AssemblyReference.cache
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csproj.SuggestedBindingRedirects.cache
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.Form1.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormAuth.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormGrZayavka.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormNewZayavka.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormOrg.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormReports.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormResult.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormSelectContact.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormSotr.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormStatus.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormUsers.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormUsl.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.FormVidOrg.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.Properties.Resources.resources
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csproj.GenerateResource.cache
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.csproj.CoreCompileInputs.cache
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.exe
+C:\Дипломы\Иван\Отчет НИР Учет взаимоотношений с клиентами\программма\UchZayavka\obj\Debug\UchZayavka.pdb
